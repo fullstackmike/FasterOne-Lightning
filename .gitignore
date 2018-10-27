@@ -11,3 +11,6 @@
 
 # Ignore Composer-managed dependencies.
 vendor/
+
+.DS_Store
+.idea
